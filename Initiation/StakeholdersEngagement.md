@@ -19,7 +19,8 @@
 
 | Message | Responsability |  Audience | Medium | Contents | Freqency |
 | :-------- | :------- | :------| :------| :------| :------|
-| `Project status` |  PM  | Client |Email & Virtually via video conference|Demo,SV,ASK,Issues,Risks| fortnightly | 
+| `Project status` |  PM  | Client |Email & Virtually via video conference|Demo,SV,ASK,Issues,Risks| BI-Weekly | 
 | `Project status and updates` |  PM  | Team members | Face to Face|ASK,Issues,Risks| Weekly | 
+| `.....` |  PM  | ..... |......|......| fortnightly | 
 
                 SV: Schedule Variance   
