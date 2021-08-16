@@ -6,10 +6,10 @@
 | :-------- | :-------------------------------- |
 | `Jhon Doe` |  Client |
 | `Sprints` |  Project Sponsor |
-| `Communities` |   the town in which the offers is located |
 | `John Snow` |  Manager |
 | `Competitors` |  Competitors |
 | `Smith,Browan,Micheal` |   Team Members |
+| `Communities` |   the town in which the offers is located |
 
 
 
