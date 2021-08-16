@@ -1,6 +1,7 @@
 #  Identify Stakeholders
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/851d8014-879a-441d-95f4-6a30465faad1/Untitled.png)
+![image](https://user-images.githubusercontent.com/44178039/129531352-882deb85-5765-4a73-b062-fd4ad8282913.png)
+
 
 1.
 2.
