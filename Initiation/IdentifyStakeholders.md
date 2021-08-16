@@ -6,7 +6,7 @@
 1.Customers ( Owners of places that offers promotions and discounts ) 
 2.Communities ( the town in which the offers is located ) 
 3.Sponsors
-4.Me as a leader to a team
+4.
 5.Team Members
 6.Managers
 7.Competitors
