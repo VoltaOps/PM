@@ -13,3 +13,13 @@
 | `Stakeholder 1` |  | | | | | 
 
         C : Current , D : Desired 
+        
+
+## Communication Management Plan
+
+| Message | Responsability |  Audience | Medium | Contents | Freqency |
+| :-------- | :------- | :------| :------| :------| :------|
+| `Project status` |  PM  | Client |Email & Virtually via video conference|Demo,SV,ASK,Issues,Risks| fortnightly | 
+| `Project status and updates` |  PM  | Team members | Face to Face|ASK,Issues,Risks| Weekly | 
+
+                SV: Schedule Variance   
