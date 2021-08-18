@@ -21,6 +21,6 @@
 
 
 ### Resources PMBOK Example 
-![image](https://user-images.githubusercontent.com/44178039/129863599-19f408bf-451c-432b-84c1-658a79ef0942.png)
+![image](https://user-images.githubusercontent.com/44178039/129863696-ce9aeee2-284c-47c0-be4d-44d38e553ff9.png)
 
 
