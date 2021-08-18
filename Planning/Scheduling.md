@@ -9,7 +9,7 @@
 ### When is Delivery Date ? 
 ![image](https://user-images.githubusercontent.com/44178039/129880933-020bca4a-3903-45d2-89fd-06beb79cabc3.png)
 
-Total Duration = **91 unit of duration** 
+Total Duration = **24 unit of duration** 
 
 ### Which tasks could be delayed w/o delaying the schedule ? 
 
