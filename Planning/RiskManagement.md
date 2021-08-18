@@ -20,4 +20,7 @@
 | other competitors fail | low | High | improve sides that competitors failed in |
 
 
+### Resources PMBOK Example 
+![image](https://user-images.githubusercontent.com/44178039/129863599-19f408bf-451c-432b-84c1-658a79ef0942.png)
+
 
