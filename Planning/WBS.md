@@ -1,7 +1,7 @@
 
 WBS ( Work breakdown structure ) breaking down deliverables 
 ![image](https://user-images.githubusercontent.com/44178039/129778351-cfe4b85b-2934-4b05-8cab-663aaee6a322.png)
-   “A deliverable-oriented hierarchical decomposition of the work to be executed by the project team to accomplish the project objectives and create the required deliverables”
+  ``` A deliverable-oriented hierarchical decomposition of the work to be executed by the project team to accomplish the project objectives and create the required deliverables ```
    PMBOK 
 
 Project  : https://github.com/VoltaOps/PM/blob/main/Initiation/ProjectCharter.md
