@@ -14,7 +14,7 @@
 | Item | Unit/Hrs     | Unit cost | Total | Assumptions|
 | :-------- | :------- | :------- | :------- | :------- | 
 | PM | 240 | $80.0 | $19,200.0  |  | 
-| Team members | 320 | $50.0 | $16,000.0  |  | 
-| Software Development | 50 | $100.0 | $5,000.0  |  | 
+| Team members | 320 | $50.0 | $16,000.0  | 4x Engineers will be available at duration of project  | 
+| Software Development | 50 | $100.0 | $5,000.0  | features of project will not change  | 
 | Testing | 30 | $100.0 | $3,000.0  |  | 
 | Total Project Cost |  |  | $43,200.0  |  | 
