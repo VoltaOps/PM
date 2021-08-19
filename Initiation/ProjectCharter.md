@@ -4,7 +4,7 @@
 ## Project Title
 * **Volta Card**
 ## Project Purpose 
-* View Promotions and Discount 
+* Get Promotion for various kinds of Stores e.g.(Restaurants, Fashions Stores,...), and to be able View The promotions and Discounts on the Map using API from Google Maps
 
 ## Project objective
     1. View all current promotions and discounts 
