@@ -32,9 +32,9 @@ Customers are an external stakeholder due to the company following customer idea
 ## 5 -	Shareholder(s):
 The shareholder is one of the companies most valuable assets. A shareholder could be considered anything from a human being to a company or even an institution which partakes in the company by purchasing a percentage of shares from them. Hence, the name “Shareholder”. This could consider them as either internal or external because if a shareholder owns more than 50% of shares of the company, they are considered the new primary decision maker and/or CEO/Owner. 
 
-## Refrences 
-
 ![image](https://aktiasolutions.com/wp-content/uploads/2020/02/Stakeholders.jpg)
+
+## Refrences 
 
 
 
