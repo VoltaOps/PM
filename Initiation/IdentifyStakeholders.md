@@ -2,8 +2,16 @@
 
 ![image](https://user-images.githubusercontent.com/44178039/129531352-882deb85-5765-4a73-b062-fd4ad8282913.png)
 
-# Internal Stakeholders:
+| Name | Title                       |
+| :-------- | :-------------------------------- |
+| `Jhon Doe` |  Client |
+| `Sprints` |  Project Sponsor |
+| `John Snow` |  Manager |
+| `Competitors` |  Competitors |
+| `Smith,Browan,Micheal` |   Team Members |
+| `Communities` |   the town in which the offers is located |
 
+# Internal Stakeholders:
 ## 1 - 	Owner(s):
 Those who identify themselves as the CEO and Current owner of the company is also identified as an internal stakeholder. This is due to Owners being liable for every issue the company goes through especially when they have a significant role in strategy.
 
@@ -24,7 +32,7 @@ Customers are an external stakeholder due to the company following customer idea
 ## 5 -	Shareholder(s):
 The shareholder is one of the companies most valuable assets. A shareholder could be considered anything from a human being to a company or even an institution which partakes in the company by purchasing a percentage of shares from them. Hence, the name “Shareholder”. This could consider them as either internal or external because if a shareholder owns more than 50% of shares of the company, they are considered the new primary decision maker and/or CEO/Owner. 
 
-# 
+## Refrences 
 
 ![image](https://aktiasolutions.com/wp-content/uploads/2020/02/Stakeholders.jpg)
 
