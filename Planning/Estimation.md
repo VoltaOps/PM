@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/44178039/129861488-bc910ef0-1a11-43a4-a540-81212d7c6a30.png)
 
 ## inputs
-- [WPS](https://github.com/VoltaOps/PM/blob/main/Planning/WBS.md)
+- [WBS](https://github.com/VoltaOps/PM/blob/main/Planning/WBS.md)
 - [Risk Management](https://github.com/VoltaOps/PM/blob/main/Planning/RiskManagement.md)
 - [Project Charter](https://github.com/VoltaOps/PM/blob/main/Initiation/ProjectCharter.md)
  
