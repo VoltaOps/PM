@@ -7,7 +7,7 @@ WBS ( Work breakdown structure ) breaking down deliverables
 
 Project  : https://github.com/VoltaOps/PM/blob/main/Initiation/ProjectCharter.md
 
-![image](https://user-images.githubusercontent.com/44178039/129781264-3e736e81-8ed0-48a8-b0e0-c88f866a4445.png)
+![image](![Untitled Diagram](https://user-images.githubusercontent.com/89010606/130230164-270d22d6-f845-42f5-ab90-c3b6dd1e0f6a.png))
 
 * Edit via link 
  ```bash
